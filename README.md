@@ -34,13 +34,8 @@ Simply open the `index.html` file in any modern web browser to start using the a
 - **Sunrise** - Sunrise time
 - **Dhuhr** - Noon prayer
 - **Asr** - Afternoon prayer
-- **Sunset** - Sunset time
 - **Maghrib** - Evening prayer
 - **Isha** - Night prayer
-- **Imsak** - Time to stop eating (before Fajr)
-- **Midnight** - Middle of the night
-- **First Third** - First third of the night
-- **Last Third** - Last third of the night
 
 ## 📝 License
 
